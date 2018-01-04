@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="QuizTB" numRows="8" numCols="4" flags="9" tableType="0">
+<rows>
+<row id="0" name=""/>
+<row id="1" name=""/>
+<row id="2" name=""/>
+<row id="3" name=""/>
+<row id="4" name=""/>
+<row id="5" name=""/>
+<row id="6" name=""/>
+<row id="7" name=""/>
+</rows>
+<columns>
+<column id="0" name="preguntas" type="1" readonly="1">El pelo es una parte íntima?,La mano es una parte íntima?,La Cara es una parte íntima?,El pene es una parte íntima?,La nariz es una parte íntima?,La oreja es una parte íntima?,La vagina es una parte íntima?,La Frente es una parte íntima?</column>
+<column id="1" name="" type="1" readonly="1">SI,SI,SI,SI,SI,SI,SI,SI</column>
+<column id="2" name="" type="1" readonly="0">NO,NO,NO,NO,NO,NO,NO,NO</column>
+<column id="3" name="" type="1" readonly="0">NO,NO,NO,SI,NO,NO,SI,NO</column>
+</columns>
+</table>
